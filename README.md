@@ -1,6 +1,6 @@
 # 📝 Minhas Tarefas — To-Do List em PHP
 
-Aplicação web de lista de tarefas (To-Do List) desenvolvida em **PHP** com banco de dados **MySQL**, criada como trabalho acadêmico da disciplina de **Estrutura de Dados** na **Fatec Taquaritinga**.
+Aplicação web de lista de tarefas (To-Do List) desenvolvida em **PHP** com banco de dados **MySQL**, criada como trabalho acadêmico da disciplina de **Programação Web** na **Fatec Taquaritinga**.
 
 Com ela você pode adicionar tarefas, marcar como concluídas e excluir, acompanhando o progresso em tempo real.
 
@@ -110,8 +110,10 @@ O script `schema.sql` cria o banco `todo_db` com a tabela `tarefas`:
 | | |
 |---|---|
 | **Instituição** | Fatec Taquaritinga |
-| **Disciplina** | Estrutura de Dados |
+| **Curso** | Análise e Desenvolvimento de Sistemas |
+| **Disciplina** | Programação Web |
 | **Professor** | Danilo Antonio Sichieri |
+| **Ano** | 2026 |
 
 ---
 
